@@ -1,0 +1,8 @@
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\bin\Debug\MTK_IMEI.exe
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\bin\Debug\MTK_IMEI.pdb
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\MTK_IMEI.Properties.Resources.resources
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\MTK_IMEI.csproj.GenerateResource.Cache
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\MTK_IMEI.exe
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\MTK_IMEI.pdb
+C:\Users\zgf\Desktop\MTK_IMEI\MTK_IMEI\obj\Debug\MTK_IMEI.Form1.resources
