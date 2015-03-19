@@ -2,7 +2,7 @@
 ####机型修改：
 其实跟安卓系统有关的一些信息大多在/system/build.prop这个文件中，尤其是跟机型有关的信息。下面是ZTE U960S3这台手机调试输出的信息：
 
-	![image](https://github.com/zhouguangfu09/ModifyMobileIMEI/blob/master/MTK_IMEI_App/png/1.png)
+![image](https://github.com/zhouguangfu09/ModifyMobileIMEI/blob/master/MTK_IMEI_App/png/1.png)
 	
 	可以看到型号(model)，商标(brand)，设备(device)，名字（name）等等。修改这些其实是修改build.prop文件。
 ####IMEI文件存放位置：
